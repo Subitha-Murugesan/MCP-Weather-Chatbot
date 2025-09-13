@@ -12,10 +12,6 @@ The backend integrates with the **US National Weather Service (NWS) API** to pro
 Clone the repo and set up the environment using **uv**:
 
 ```bash
-# Create project folder
-git clone https://github.com/your-username/MCP-Weather-Chatbot.git
-cd MCP-Weather-Chatbot
-
 # Initialize venv
 uv venv
 source .venv/bin/activate

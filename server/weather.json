@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+    "weather": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "/Users/subitham/Documents/Studies/Job_Study/GENAI/MCP/mcpcrashcourse/server/weather.py"
+      ]
+    }
+}
+}
